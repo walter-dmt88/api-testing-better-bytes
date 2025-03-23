@@ -1,0 +1,21 @@
+## JSON
+{
+  "planet": {
+    "name": "Kepler-22b",
+    "distanceToEarth": 587,
+    "habitable": true,
+    "countriesVisited": ["Việt Nam", "Campuchia", "Thái Lan"]
+  }
+}
+
+## XML
+<planet>
+  <name>Kepler-22b</name>
+  <distanceToEarth>587</distanceToEarth>
+  <habitable>true</habitable>
+  <countriesVisited>
+    <country>Việt Nam</country>
+    <country>Campuchia</country>
+    <country>Thái Lan</country>
+  </countriesVisited>
+</planet>
